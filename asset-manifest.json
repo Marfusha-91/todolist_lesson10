@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todolist_lesson10/static/css/main.aa207b39.chunk.css",
+    "main.js": "/todolist_lesson10/static/js/main.d93dda18.chunk.js",
+    "main.js.map": "/todolist_lesson10/static/js/main.d93dda18.chunk.js.map",
+    "runtime-main.js": "/todolist_lesson10/static/js/runtime-main.249d4bc7.js",
+    "runtime-main.js.map": "/todolist_lesson10/static/js/runtime-main.249d4bc7.js.map",
+    "static/js/2.847be3ce.chunk.js": "/todolist_lesson10/static/js/2.847be3ce.chunk.js",
+    "static/js/2.847be3ce.chunk.js.map": "/todolist_lesson10/static/js/2.847be3ce.chunk.js.map",
+    "index.html": "/todolist_lesson10/index.html",
+    "precache-manifest.ff17680bbb714014b6d482152ee99742.js": "/todolist_lesson10/precache-manifest.ff17680bbb714014b6d482152ee99742.js",
+    "service-worker.js": "/todolist_lesson10/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/todolist_lesson10/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.847be3ce.chunk.js.LICENSE.txt": "/todolist_lesson10/static/js/2.847be3ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.249d4bc7.js",
+    "static/js/2.847be3ce.chunk.js",
+    "static/css/main.aa207b39.chunk.css",
+    "static/js/main.d93dda18.chunk.js"
+  ]
+}
